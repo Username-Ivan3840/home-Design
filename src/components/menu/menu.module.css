@@ -1,0 +1,36 @@
+.header_href{
+    text-decoration: none;
+    color: black;
+    font-size: 16;
+    padding-right: 17px;
+    padding-left: 17px;
+    display: flex;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.header_button{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: #996830;
+    display: flex;
+    align-items:center ;
+    width: fit-content;
+}
+.header_link{
+    display: flex;
+    
+}
+.header_href:hover{
+    color: #ee840a;
+}
+.header_button:hover{
+    background-color: #ee840a;
+}
